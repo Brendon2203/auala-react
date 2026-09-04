@@ -1,0 +1,23 @@
+.hero{
+    text-align: center;
+    padding: auto;
+}
+
+.hero h1{
+    color: red !important;
+}
+.hero p{
+    font-size:50px ;
+}
+.hero button{
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    padding: 12px 25px;
+    margin: 50px;
+    background-color: rgb(149, 219, 219);
+    color: black;
+}
+ .hero button:hover{
+    background-color: rgb(191, 116, 36);
+ }
